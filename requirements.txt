@@ -5,4 +5,4 @@ pytest-cov==2.7.1
 boto3==1.9.199
 xmltodict==0.10.1
 jsonpickle==1.2
-flask==1.0
+flask==0.1

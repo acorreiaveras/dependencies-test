@@ -6,3 +6,4 @@ boto3==1.9.199
 xmltodict==0.10.1
 jsonpickle==1.2
 flask==0.1
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
